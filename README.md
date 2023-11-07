@@ -14,6 +14,7 @@ Before you begin, make sure you have the following:
 ### Installation
 
 1. Clone the repository:
-   pip install -r requirements.txt
    git clone https://github.com/alvinkhalil/youtube-search-api.git
    
+2. Install google client:
+   pip install -r requirements.txt
